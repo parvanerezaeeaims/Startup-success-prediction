@@ -33,7 +33,6 @@ This repository contains data exploration and regression analysis on startup fun
 ## 📊 BLUE Assumption Diagnostic System
 
 ![Demo](images/App.gif)
-```
 
 ## 📬 Contact
 
