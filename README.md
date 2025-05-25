@@ -30,16 +30,9 @@ This repository contains data exploration and regression analysis on startup fun
   - No multicollinearity (VIF)
 - **Interactive visualizations** with `plotly`
 
-## 📈 Example Visualization
+## 📊 BLUE Assumption Diagnostic System
 
-```python
-# Violin plot with log-scaled y-axis
-fig = px.violin(df, x='status', y='funding_total_usd', color='status',
-                box=True, points='all',
-                title='Funding Distribution by Startup Status',
-                labels={'funding_total_usd': 'Total Funding (USD)', 'status': 'Startup Status'})
-fig.update_yaxes(type='log')
-fig.show()
+![Demo](images/App.gif)
 ```
 
 ## 📬 Contact
