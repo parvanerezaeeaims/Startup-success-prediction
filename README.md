@@ -38,6 +38,13 @@ This repository contains data exploration and regression analysis on startup fun
 
 For feedback or collaboration:[parvanerezaeeaims@gmail.com]
 
+## Report a bug
+
+You can report a new libopenshot issue directly on GitHub:
+
+[https://github.com/OpenShot/libopenshot/issues]
+
+
 ## 🤝 Contributing
 
 Contributions are welcome!  
