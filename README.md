@@ -42,7 +42,7 @@ For feedback or collaboration:[parvanerezaeeaims@gmail.com]
 
 You can report a new libopenshot issue directly on GitHub:
 
-[https://github.com/OpenShot/libopenshot/issues]
+[https://github.com/parvanerezaeeaims/Startup-success-prediction/issues]
 
 
 ## 🤝 Contributing
